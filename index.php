@@ -227,12 +227,12 @@
     </section>
 
     <!--education-->
-    <section class="feedback" id="feedback">
+    
+    <section class="feedback" id="feedback" al>
       <div class="container">
         <div class="heading">
           <h2>Education</h2>
-          <h3>Phasellus non dolor nibh. Nullam elementum tellus pretium feugiat.<br>
-				Cras dictum tellus dui, vitae sollicitudin ipsum tincidunt in. Sed tincidunt tristique enim sed sollcitudin.</h3>
+          <h3>xxxx.</h3>
         </div>
       </div>
 
@@ -240,54 +240,44 @@
         <div class="col-md-4 wow fadeInRight" data-wow-offset="0" data-wow-delay="0.3s">
           <div class="text-center">
             <div class="hi-icon-wrap hi-icon-effect">
-              <h4>MASTER OF COMPUTER SCIENCE</h4>
-              <h5>FEB 2012 - DEC 2014</h5>
+              <h4>MASTER OF COMPUTER APPLICATION (MCA)</h4>
+              <h5>JUN 2012 - JUN 2015</h5>
               <i class="fa fa-laptop"></i>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing</p>
+              <p>Pune University</p>
             </div>
           </div>
         </div>
 
-        <div class="col-md-4 wow fadeInRight" data-wow-offset="0" data-wow-delay="0.6s">
+        <div class="col-md-4 wow fadeInRight" data-wow-offset="0" data-wow-delay="0.6s" >
           <div class="text-center">
             <div class="hi-icon-wrap hi-icon-effect">
-              <h4>MASTER OF COMPUTER SCIENCE</h4>
-              <h5>FEB 2012 - DEC 2014</h5>
+              <h4>BACHELOR OF COMPUTER SCIENCE(BCS)</h4>
+              <h5>JUN 2008 - JUN 2011</h5>
               <i class="fa fa-book"></i>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing</p>
+              <p>Mumbai University</p>
             </div>
           </div>
         </div>
-
-        <div class="col-md-4 wow fadeInRight" data-wow-offset="0" data-wow-delay="0.9s">
-          <div class="text-center">
-            <div class="hi-icon-wrap hi-icon-effect">
-              <h4>MASTER OF COMPUTER SCIENCE</h4>
-              <h5>FEB 2012 - DEC 2014</h5>
-              <i class="fa fa-gear"></i>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing</p>
-            </div>
           </div>
         </div>
       </div>
 
       <div class="container">
         <div class="row">
-          <blockquote>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-            It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages." <cite>Jogn De, Programming<br/><i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i></cite>            </blockquote>
-          <blockquote>Have you ever felt worried that your party will not raise up to your guest expectations? In design, vertical rhythm is the structure that guides a reader’s eye through the content. Good vertical rhythm makes a layout more balanced and beautiful
-            and its content more readable. The time signature in sheet music visually depicts a song’s rhythm, while for us, the lines of the baseline grid depict the rhythm of our content and give us guidelines. <cite>Marta Kay, Business Development<br/><i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i></cite>            </blockquote>
+          <blockquote>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 15.
+           <br/><i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i></cite>            </blockquote>
+          <blockquote>TEXT HERE <br/><i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i></cite>            </blockquote>
         </div>
       </div>
     </section>
 
-    <!--education-->
+    <!--CONTACT-->
     <section class="contact" id="contact">
       <div class="container">
         <div class="heading">
           <h2>Contact</h2>
-          <h3>Phasellus non dolor nibh. Nullam elementum tellus pretium feugiat.<br>
-				 Cras dictum tellus dui, vitae sollicitudin ipsum tincidunt in. Sed tincidunt tristique enim sed sollcitudin.</h3>
+          <h3>You can connect with me .<br>
+				 .</h3>
         </div>
       </div>
 
@@ -295,19 +285,19 @@
         <div class="row">
           <div class="col-md-7">
             <div class="map">
-              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d22864.11283411948!2d-73.96468908098944!3d40.630720240038435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew+York%2C+NY%2C+USA!5e0!3m2!1sen!2sbg!4v1540447494452" width="100%" height="380" frameborder="0" style="border:0" allowfullscreen></iframe>
+              <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15135.291097154717!2d73.810697!3d18.4916852!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xf79051da4751c346!2sMillennium+National+School!5e0!3m2!1sen!2sin!4v1560344757976!5m2!1sen!2sin" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
             </div>
           </div>
-
+      
           <div class="contact-info">
             <div class="col-md-5">
               <h4>My Contact Info</h4>
-              <h5>Nullam elementum tellus pretium feugiat</h5>
-              <p>Fusce fermen tum neque a rutrum varius odio pede ullamcorp-er tellus ut dignissim nisi risus non tortor</p>
+              <h5>PRASAD KELUSKAR</h5>
+           
               <ul>
-                <li><i class="fa fa-home fa-2x"></i> Home # 38, Suite 54 Elizebth Street</li>
-                <li><i class="fa fa-phone fa-2x"></i> +38 000 129900</li>
-                <li><i class="fa fa-envelope fa-2x"></i> info@domain.net</li>
+                <li><i class="fa fa-home fa-2x"></i> Home # 12,Soham Banglow, Opp. Mileniuum school,Krvenagar pune-52</li>
+                <li><i class="fa fa-phone fa-2x"></i> +91-8446783563</li>
+                <li><i class="fa fa-envelope fa-2x"></i> https://resume-prasad.herokuapp.com/</li>
                 <li><i class="fa fa-download fa-2x"></i> Download My Resume</li>
               </ul>
             </div>
@@ -352,13 +342,11 @@
       </p>
       <div class="container">
         <ul>
-          <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-          <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-          <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-          <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
-          <li><a href="#"><i class="fa fa-flickr"></i></a></li>
+          <li><a href="https://twitter.com/prasad2121"><i class="fa fa-twitter"></i></a></li>
+          <li><a href="https://facebook.com/prasad508"><i class="fa fa-facebook"></i></a></li>
+          <li><a href="https://linkedin.com/in/prasadkeluskar"><i class="fa fa-linkedin"></i></a></li>
         </ul>
-        <p>&copy; MyResume Theme. All Rights Reserved.</p>
+        <p>&copy; 2019 Prasad Keluskar.</p>
         <div class="credits">
           <!--
             All the links in the footer should remain intact.
