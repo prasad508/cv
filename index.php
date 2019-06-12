@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-  <title>My Resume HTML Bootstrap Template</title>
+  <title>PRASAD KELUSKAR</title>
 
   <!-- Bootstrap -->
   <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -32,8 +32,8 @@
         <div class="parallax text-center" style="background-image: url(img/1.jpg);">
           <div class="parallax-pattern-overlay">
             <div class="container text-center" style="height:600px;padding-top:170px;">
-              <a href="#"><img id="site-title" class=" wow fadeInDown" wow-data-delay="0.0s" wow-data-duration="0.9s" src="img/2.png" alt=""/></a>
-              <h2 class="intro"><a href="index.html">My Resume</a></h2>
+              <a href="#"><img id="site-title" class=" wow fadeInDown" wow-data-delay="0.0s" wow-data-duration="0.9s" src="img/prasad.jpg" alt=""/></a>
+              <h2 class="intro"><a href="index.html">PRASAD KELUSKAR</a></h2>
             </div>
           </div>
         </div>
@@ -50,7 +50,6 @@
                         <li class="menuItem active"><a href="#wrapper">Home</a></li>
                         <li class="menuItem"><a href="#aboutus">About Us</a></li>
                         <li class="menuItem"><a href="#specialties">Skills</a></li>
-                        <li class="menuItem"><a href="#gallery">Portfolio</a></li>
                         <li class="menuItem"><a href="#feedback">Education</a></li>
                         <li class="menuItem"><a href="#contact">Contact</a></li>
                       </ul>
@@ -69,33 +68,19 @@
       <div class="container">
         <div class="heading text-center">
           <h2>About Me</h2>
-          <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi quis dolor sit amet lacus ultricies rutrum. Curabitur vitae fringilla elit. Sed at nunc congue, cursus erat ac, pellentesque eros. Etiam ullamcorper sed lectus sit amet mattis. Morbi justo sem, cursus nec convallis a, pellentesque eu mi. Morbi hendrerit ultricies ligula </h3>
+          <h3>Professioinal security expert</h3>
         </div>
         <div class="row">
           <div class="col-md-6">
             <div class="papers text-center">
               <img src="img/team/1.jpg" alt=""><br/>
               <a href="#"><b>Download my resume</b></a>
-              <h4 class="">My Teacher John Vandeley</h4>
+              <h4 class="">Penetration Tester</h4>
               <p>
-                Have you ever felt worried that your party will not raise up to your guest expectations? In design, vertical rhythm is the structure that guides a reader's eye through the content. Good vertical rhythm makes a layout more balanced and beautiful and its
-                content more readable. The time signature in sheet music visually depicts a song's rhythm, while for us, the lines of the baseline grid depict the rhythm of our content and give us guidelines.
+                Prasad ke
               </p>
             </div>
           </div>
-          <div class="col-md-6">
-            <div class="papers text-center">
-              <img src="img/team/2.jpg" alt=""><br/>
-              <a href="#"><b>Download my resume</b></a>
-              <h4 class="">My Teacher Stephanie Hellen</h4>
-              <p>
-                Have you ever felt worried that your party will not raise up to your guest expectations? In design, vertical rhythm is the structure that guides a reader's eye through the content. Good vertical rhythm makes a layout more balanced and beautiful and its
-                content more readable. The time signature in sheet music visually depicts a song's rhythm, while for us, the lines of the baseline grid depict the rhythm of our content and give us guidelines.
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
     </section>
 
 
@@ -103,8 +88,8 @@
     <section class="specialties" id="specialties">
       <div class="container">
         <div class="heading text-center">
-          <h2>Our Skills</h2>
-          <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi quis dolor sit amet lacus ultricies rutrum. Curabitur vitae fringilla elit. Sed at nunc congue, cursus erat ac, pellentesque eros. Etiam ullamcorper sed lectus sit amet mattis. Morbi justo sem, cursus nec convallis a, pellentesque eu mi. Morbi hendrerit ultricies ligula </h3>
+          <h2>My Skills</h2>
+          <h3>Well versed with BURP Suite, Nesss, Auctinux </h3>
         </div>
       </div>
 
@@ -113,26 +98,26 @@
           <div class="col-md-6 wow fadeInRight" data-wow-offset="0" data-wow-delay="0.3s" ">
 					<div class="skill ">
 						<div class="progress-wrap ">
-							<h3>Graphic Design</h3>
+							<h3>BURP SUITE</h3>
 							<div class="progress ">
 							  <div class="progress-bar color1 " role="progressbar " aria-valuenow="40 " aria-valuemin="0 " aria-valuemax="100 " style="width: 85% ">
-								<span class="bar-width ">85%</span>
+								<span class="bar-width ">95%</span>
 							  </div>
 
 							</div>
 						</div>
 
 						<div class="progress-wrap ">
-							<h3>HTML</h3>
+							<h3>WireShark</h3>
 							<div class="progress ">
 							  <div class="progress-bar color2 " role="progressbar " aria-valuenow="20 " aria-valuemin="0 " aria-valuemax="100 " style="width: 95% ">
-							   <span class="bar-width ">95%</span>
+							   <span class="bar-width ">80%</span>
 							  </div>
 							</div>
 						</div>
 
 						<div class="progress-wrap ">
-							<h3>CSS</h3>
+							<h3>Kali/Santoku</h3>
 							<div class="progress ">
 							  <div class="progress-bar color3 " role="progressbar " aria-valuenow="60 " aria-valuemin="0 " aria-valuemax="100 " style="width: 80% ">
 								<span class="bar-width ">80%</span>
@@ -141,7 +126,7 @@
 						</div>
 
 						<div class="progress-wrap ">
-							<h3>Wordpress</h3>
+							<h3>Networking</h3>
 							<div class="progress ">
 							  <div class="progress-bar color4 " role="progressbar " aria-valuenow="80 " aria-valuemin="0 " aria-valuemax="100 " style="width: 90% ">
 								<span class="bar-width ">90%</span>
@@ -161,52 +146,52 @@
         <div class="row">
           <div class="col-md-4">
             <div class="skills">
-              <h3 class="main text-center">WEB DESIGN</h3>
+              <h3 class="main text-center">Security Tool</h3>
               <div class="restitem clearfix">
                 <div class="rm-thumb" style="background-image: url(img/2.png)">
                 </div>
-                <h5>HTML</h5>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi quis dolor sit amet lacus ultricies rutrum. Curabitur vitae fringilla elit. Sed at nunc congue, cursus erat ac, pellentesque eros.
+                <h5>BuRP SUIT</h5>
+                <p>xxxx.
                 </p>
               </div>
               <div class="restitem clearfix">
                 <div class="rm-thumb" style="background-image: url(img/2.png)">
                 </div>
-                <h5>CSS</h5>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi quis dolor sit amet lacus ultricies rutrum. Curabitur vitae fringilla elit. Sed at nunc congue, cursus erat ac, pellentesque eros.
+                <h5>Wireshark</h5>
+                <p>xxxx.
                 </p>
               </div>
               <div class="restitem clearfix">
                 <div class="rm-thumb" style="background-image: url(img/2.png)">
                 </div>
-                <h5>JAVASCRIPT</h5>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi quis dolor sit amet lacus ultricies rutrum. Curabitur vitae fringilla elit. Sed at nunc congue, cursus erat ac, pellentesque eros.
+                <h5>Zenmap</h5>
+                <p>xxx.
                 </p>
               </div>
             </div>
           </div>
           <div class="col-md-4">
             <div class="skills">
-              <h3 class="main text-center">PHOTOGRAPHY</h3>
+              <h3 class="main text-center">Other</h3>
               <div class="restitem clearfix">
                 <div class="rm-thumb" style="background-image: url(img/2.png)">
                 </div>
-                <h5>adipiscing elit</h5>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi quis dolor sit amet lacus ultricies rutrum. Curabitur vitae fringilla elit. Sed at nunc congue, cursus erat ac, pellentesque eros.
+                <h5>JIRA</h5>
+                <p>aaa.
                 </p>
               </div>
               <div class="restitem clearfix">
                 <div class="rm-thumb" style="background-image: url(img/2.png)">
                 </div>
-                <h5>adipiscing elit</h5>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi quis dolor sit amet lacus ultricies rutrum. Curabitur vitae fringilla elit. Sed at nunc congue, cursus erat ac, pellentesque eros.
+                <h5>Jenkin elit</h5>
+                <p>ssss.
                 </p>
               </div>
               <div class="restitem clearfix">
                 <div class="rm-thumb" style="background-image: url(img/2.png)">
                 </div>
-                <h5>adipiscing elit</h5>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi quis dolor sit amet lacus ultricies rutrum. Curabitur vitae fringilla elit. Sed at nunc congue, cursus erat ac, pellentesque eros.
+                <h5>Confluence</h5>
+                <p>cccc
                 </p>
               </div>
             </div>
@@ -217,178 +202,27 @@
               <div class="restitem clearfix">
                 <div class="rm-thumb" style="background-image: url(img/2.png)">
                 </div>
-                <h5>adipiscing elit</h5>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi quis dolor sit amet lacus ultricies rutrum. Curabitur vitae fringilla elit. Sed at nunc congue, cursus erat ac, pellentesque eros.
+                <h5>python</h5>
+                <p>bbb.
                 </p>
               </div>
               <div class="restitem clearfix">
                 <div class="rm-thumb" style="background-image: url(img/2.png)">
                 </div>
-                <h5>adipiscing elit</h5>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi quis dolor sit amet lacus ultricies rutrum. Curabitur vitae fringilla elit. Sed at nunc congue, cursus erat ac, pellentesque eros.
+                <h5> HTML</h5>
+                <p>nnnnn
                 </p>
               </div>
               <div class="restitem clearfix">
                 <div class="rm-thumb" style="background-image: url(img/2.png)">
                 </div>
-                <h5>adipiscing elit</h5>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi quis dolor sit amet lacus ultricies rutrum. Curabitur vitae fringilla elit. Sed at nunc congue, cursus erat ac, pellentesque eros.
+                <h5>CSS</h5>
+                <p>tttt.
                 </p>
               </div>
             </div>
           </div>
         </div>
-      </div>
-    </section>
-
-
-    <!--portfolio-->
-    <section class="gallery" id="gallery">
-      <div class="container">
-        <div class="heading text-center">
-          <h2>Portfolio</h2>
-          <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi quis dolor sit amet lacus ultricies rutrum. Curabitur vitae fringilla elit. Sed at nunc congue, cursus erat ac, pellentesque eros. Etiam ullamcorper sed lectus sit amet mattis.</h3>
-        </div>
-
-        <div id="grid-gallery" class="grid-gallery">
-          <section class="grid-wrap">
-            <ul class="grid">
-              <li class="grid-sizer"></li>
-              <!-- for Masonry column width -->
-              <li>
-                <figure>
-                  <img src="img/work/1.jpg" alt="" />
-                  <figcaption>
-                    <h3>Vitae fringilla elit</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
-                  </figcaption>
-                </figure>
-              </li>
-              <li>
-                <figure>
-                  <img src="img/work/2.jpg" alt="" />
-                  <figcaption>
-                    <h3>Vitae fringilla elit</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
-                  </figcaption>
-                </figure>
-              </li>
-              <li>
-                <figure>
-                  <img src="img/work/3.jpg" alt="" />
-                  <figcaption>
-                    <h3>Vitae fringilla elit</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
-                  </figcaption>
-                </figure>
-              </li>
-              <li>
-                <figure>
-                  <img src="img/work/4.jpg" alt="" />
-                  <figcaption>
-                    <h3>Vitae fringilla elit</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
-                  </figcaption>
-                </figure>
-              </li>
-              <li>
-                <figure>
-                  <img src="img/work/5.jpg" alt="" />
-                  <figcaption>
-                    <h3>Vitae fringilla elit</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
-                  </figcaption>
-                </figure>
-              </li>
-              <li>
-                <figure>
-                  <img src="img/work/6.jpg" alt="" />
-                  <figcaption>
-                    <h3>Vitae fringilla elit</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
-                  </figcaption>
-                </figure>
-              </li>
-
-              <li>
-                <figure>
-                  <img src="img/work/7.jpg" alt="" />
-                  <figcaption>
-                    <h3>Vitae fringilla elit</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
-                  </figcaption>
-                </figure>
-              </li>
-
-              <li>
-                <figure>
-                  <img src="img/work/8.jpg" alt="" />
-                  <figcaption>
-                    <h3>Vitae fringilla elit</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
-                  </figcaption>
-                </figure>
-              </li>
-
-            </ul>
-          </section>
-          <!-- // end small images -->
-
-          <section class="slideshow">
-            <ul>
-              <li>
-                <figure>
-                  <img src="img/work/1.jpg" alt="" />
-                </figure>
-              </li>
-              <li>
-                <figure>
-                  <img src="img/work/2.jpg" alt="" />
-                </figure>
-              </li>
-              <li>
-                <figure>
-                  <img src="img/work/3.jpg" alt="" />
-                </figure>
-              </li>
-              <li>
-                <figure>
-                  <img src="img/work/4.jpg" alt="" />
-                </figure>
-              </li>
-              <li>
-                <figure>
-                  <img src="img/work/5.jpg" alt="" />
-                </figure>
-              </li>
-              <li>
-                <figure>
-                  <img src="img/work/6.jpg" alt="" />
-                </figure>
-              </li>
-
-              <li>
-                <figure>
-                  <img src="img/work/7.jpg" alt="" />
-                </figure>
-              </li>
-
-              <li>
-                <figure>
-                  <img src="img/work/8.jpg" alt="" />
-                </figure>
-              </li>
-            </ul>
-            <nav>
-              <span class="icon nav-prev"></span>
-              <span class="icon nav-next"></span>
-              <span class="icon nav-close"></span>
-            </nav>
-            <div class="info-keys icon">Navigate with arrow keys</div>
-          </section>
-          <!-- // end slideshow -->
-        </div>
-        <!-- // grid-gallery -->
       </div>
     </section>
 
