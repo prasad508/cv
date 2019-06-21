@@ -32,7 +32,7 @@
         <div class="parallax text-center" style="background-image: url(img/1.jpg);">
           <div class="parallax-pattern-overlay">
             <div class="container text-center" style="height:600px;padding-top:170px;">
-              <a href="#"><img id="site-title" class=" wow fadeInDown" wow-data-delay="0.0s" wow-data-duration="0.9s" src="img/prasad.jpg" alt=""/></a>
+              <!----<a href="#"><img id="site-title" class=" wow fadeInDown" wow-data-delay="0.0s" wow-data-duration="0.9s" src="img/prasad.jpg" alt=""/></a> -->
               <h2 class="intro"><a href="index.html">PRASAD KELUSKAR</a></h2>
             </div>
           </div>
@@ -73,7 +73,7 @@
         <div class="row">
           <div class="col-md-6">
             <div class="papers text-center">
-              <img src="img/team/1.jpg" alt=""><br/>
+              <img src="img/team/1.jpg" alt="prasad keluskar"><br/>
               <a href="#"><b>Download my resume</b></a>
               <h4 class="">Penetration Tester</h4>
               <p>
@@ -150,21 +150,21 @@
               <div class="restitem clearfix">
                 <div class="rm-thumb" style="background-image: url(img/2.png)">
                 </div>
-                <h5>BuRP SUIT</h5>
+                <h5>Burp Suite</h5>
                 <p>xxxx.
                 </p>
               </div>
               <div class="restitem clearfix">
-                <div class="rm-thumb" style="background-image: url(img/2.png)">
+                <div class="rm-thumb" style="background-image: url(img/3.png)">
                 </div>
                 <h5>Wireshark</h5>
                 <p>xxxx.
                 </p>
               </div>
               <div class="restitem clearfix">
-                <div class="rm-thumb" style="background-image: url(img/2.png)">
+                <div class="rm-thumb" style="background-image: url(img/5.png)">
                 </div>
-                <h5>Zenmap</h5>
+                <h5>Metasploit</h5>
                 <p>xxx.
                 </p>
               </div>
@@ -174,23 +174,23 @@
             <div class="skills">
               <h3 class="main text-center">Other</h3>
               <div class="restitem clearfix">
-                <div class="rm-thumb" style="background-image: url(img/2.png)">
+                <div class="rm-thumb" style="background-image: url(img/6.png)" >
                 </div>
-                <h5>JIRA</h5>
+                <h5>Agile/DevOps</h5>
                 <p>aaa.
                 </p>
               </div>
               <div class="restitem clearfix">
-                <div class="rm-thumb" style="background-image: url(img/2.png)">
+                <div class="rm-thumb" style="background-image: url(img/7.png)">
                 </div>
-                <h5>Jenkin elit</h5>
+                <h5>Jenkin</h5>
                 <p>ssss.
                 </p>
               </div>
               <div class="restitem clearfix">
-                <div class="rm-thumb" style="background-image: url(img/2.png)">
+                <div class="rm-thumb" style="background-image: url(img/4.png)">
                 </div>
-                <h5>Confluence</h5>
+                <h5>Zenmap</h5>
                 <p>cccc
                 </p>
               </div>
@@ -200,7 +200,7 @@
             <div class="skills">
               <h3 class="main text-center">PROGRAMMING</h3>
               <div class="restitem clearfix">
-                <div class="rm-thumb" style="background-image: url(img/2.png)">
+                <div class="rm-thumb" style="background-image: url(img/6.ico)">
                 </div>
                 <h5>python</h5>
                 <p>bbb.
@@ -236,7 +236,7 @@
         </div>
       </div>
 
-      <div class="container">
+      <div class="container education-warpper">
         <div class="col-md-4 wow fadeInRight" data-wow-offset="0" data-wow-delay="0.3s">
           <div class="text-center">
             <div class="hi-icon-wrap hi-icon-effect">

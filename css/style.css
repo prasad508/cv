@@ -195,8 +195,9 @@ header {
 	color:#92DD03 ;
 }
 .heading h3 {
-	font-size:16px;
-	line-height:1.7;
+	font-size:18px;
+	line-height:4.9;
+
 }
 img#site-title {
 	max-width: 150px;
@@ -212,7 +213,7 @@ img#site-title {
 	width:90%;
 	padding:2em;
 	margin:0px auto;
-	margin-top:40px;
+	margin-top:14px;
 	font-size:12px;
 }
 .papers:before,.papers:after {
@@ -355,7 +356,7 @@ img#site-title {
 	width:100px;
 	height:100px;
 	background-repeat:no-repeat;
-	background-position:center center;
+	background-position:center;
 	float:left;
 	margin:0 20px 0 0;
 	box-shadow:inset 1px 1px 3px rgba(0,0,0,0.2),1px 1px 1px rgba(255,255,255,0.1);
@@ -874,4 +875,17 @@ blockquote cite {
 }
 blockquote cite:before {
 	content: "\2014 \2009";
+}
+
+.education-warpper{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.rm_thumb{
+	box-shadow: none;
+	background-position: center;
+
+	
 }
