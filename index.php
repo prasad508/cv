@@ -68,16 +68,16 @@
       <div class="container">
         <div class="heading text-center">
           <h2>About Me</h2>
-          <h3>Professioinal security expert</h3>
+          <h3>Professioinal Security Expert</h3>
         </div>
         <div class="row">
           <div class="col-md-6">
             <div class="papers text-center">
-              <img src="img/team/1.jpg" alt="prasad keluskar"><br/>
+              <img src="img/team/p.jpg" alt="prasad keluskar"><br/>
               <a href="#"><b>Download my resume</b></a>
               <h4 class="">Penetration Tester</h4>
               <p>
-                Prasad ke
+                Prasad keluskar
               </p>
             </div>
           </div>
@@ -89,7 +89,9 @@
       <div class="container">
         <div class="heading text-center">
           <h2>My Skills</h2>
-          <h3>Well versed with BURP Suite, Nesss, Auctinux </h3>
+          <h3>Performed host, network, and web application penetration tests.<br>
+            Performed network security analysis and risk management for designated systems.<br>
+            Created written reports, detailing assessment findings and recommendations. </h3>
         </div>
       </div>
 
@@ -120,7 +122,7 @@
 							<h3>Kali/Santoku</h3>
 							<div class="progress ">
 							  <div class="progress-bar color3 " role="progressbar " aria-valuenow="60 " aria-valuemin="0 " aria-valuemax="100 " style="width: 80% ">
-								<span class="bar-width ">80%</span>
+								<span class="bar-width ">90%</span>
 							  </div>
 							</div>
 						</div>
@@ -129,7 +131,7 @@
 							<h3>Networking</h3>
 							<div class="progress ">
 							  <div class="progress-bar color4 " role="progressbar " aria-valuenow="80 " aria-valuemin="0 " aria-valuemax="100 " style="width: 90% ">
-								<span class="bar-width ">90%</span>
+								<span class="bar-width ">85%</span>
 							  </div>
 							</div>
 						</div>
@@ -146,52 +148,52 @@
         <div class="row">
           <div class="col-md-4">
             <div class="skills">
-              <h3 class="main text-center">Security Tool</h3>
+              <h3 class="main text-center">SECURITY TOOL</h3>
               <div class="restitem clearfix">
                 <div class="rm-thumb" style="background-image: url(img/2.png)">
                 </div>
                 <h5>Burp Suite</h5>
-                <p>xxxx.
+                <p>Web application security.
                 </p>
               </div>
               <div class="restitem clearfix">
                 <div class="rm-thumb" style="background-image: url(img/3.png)">
                 </div>
                 <h5>Wireshark</h5>
-                <p>xxxx.
+                <p>Used for Network Troubleshooting, analysis & Packet Analyzer. .
                 </p>
               </div>
               <div class="restitem clearfix">
                 <div class="rm-thumb" style="background-image: url(img/5.png)">
                 </div>
                 <h5>Metasploit</h5>
-                <p>xxx.
+                <p>Provides Information About Security Vulnerabilities .
                 </p>
               </div>
             </div>
           </div>
           <div class="col-md-4">
             <div class="skills">
-              <h3 class="main text-center">Other</h3>
+              <h3 class="main text-center">OTHER</h3>
               <div class="restitem clearfix">
                 <div class="rm-thumb" style="background-image: url(img/6.png)" >
                 </div>
                 <h5>Agile/DevOps</h5>
-                <p>aaa.
+                <p> Its Combine Software Development & Information Technology Operations to Shorten.
                 </p>
               </div>
               <div class="restitem clearfix">
                 <div class="rm-thumb" style="background-image: url(img/7.png)">
                 </div>
                 <h5>Jenkin</h5>
-                <p>ssss.
+                <p>An Open Source Automation Serve which Reliably Build, Test & Deploy a Software.
                 </p>
               </div>
               <div class="restitem clearfix">
                 <div class="rm-thumb" style="background-image: url(img/4.png)">
                 </div>
                 <h5>Zenmap</h5>
-                <p>cccc
+                <p>GUI for the Nmap Security Scanner.
                 </p>
               </div>
             </div>
@@ -203,21 +205,21 @@
                 <div class="rm-thumb" style="background-image: url(img/6.ico)">
                 </div>
                 <h5>python</h5>
-                <p>bbb.
+                <p> It is a Interpreted, High-level, General-purpose Programming Language
                 </p>
               </div>
               <div class="restitem clearfix">
-                <div class="rm-thumb" style="background-image: url(img/2.png)">
+                <div class="rm-thumb" style="background-image: url(img/8.png)">
                 </div>
                 <h5> HTML</h5>
-                <p>nnnnn
+                <p>It is Used for Documents Designed to be Displayed in a Web Browser.
                 </p>
               </div>
               <div class="restitem clearfix">
-                <div class="rm-thumb" style="background-image: url(img/2.png)">
+                <div class="rm-thumb" style="background-image: url(img/10.png)">
                 </div>
-                <h5>CSS</h5>
-                <p>tttt.
+                <h5>SQL</h5>
+                <p>Used for Stream Processing in a Relational Data Stream Management System.
                 </p>
               </div>
             </div>
@@ -232,7 +234,7 @@
       <div class="container">
         <div class="heading">
           <h2>Education</h2>
-          <h3>xxxx.</h3>
+          <h3>"Education is the most powerful weapon which you can use to change the world".</h3>
         </div>
       </div>
 
@@ -240,7 +242,7 @@
         <div class="col-md-4 wow fadeInRight" data-wow-offset="0" data-wow-delay="0.3s">
           <div class="text-center">
             <div class="hi-icon-wrap hi-icon-effect">
-              <h4>MASTER OF COMPUTER APPLICATION (MCA)</h4>
+              <h4>MASTER of COMPUTER APPLICATION (MCA)</h4>
               <h5>JUN 2012 - JUN 2015</h5>
               <i class="fa fa-laptop"></i>
               <p>Pune University</p>
@@ -251,7 +253,7 @@
         <div class="col-md-4 wow fadeInRight" data-wow-offset="0" data-wow-delay="0.6s" >
           <div class="text-center">
             <div class="hi-icon-wrap hi-icon-effect">
-              <h4>BACHELOR OF COMPUTER SCIENCE(BCS)</h4>
+              <h4>BACHELOR of COMPUTER SCIENCE(BCS)</h4>
               <h5>JUN 2008 - JUN 2011</h5>
               <i class="fa fa-book"></i>
               <p>Mumbai University</p>
@@ -259,14 +261,6 @@
           </div>
         </div>
           </div>
-        </div>
-      </div>
-
-      <div class="container">
-        <div class="row">
-          <blockquote>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 15.
-           <br/><i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i></cite>            </blockquote>
-          <blockquote>TEXT HERE <br/><i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i> <i class="fa fa-star"></i></cite>            </blockquote>
         </div>
       </div>
     </section>
