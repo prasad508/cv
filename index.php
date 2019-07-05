@@ -22,26 +22,24 @@
   <link href='https://fonts.googleapis.com/css?family=Playball' rel='stylesheet' type='text/css'>
   
   <!-- =======================================================
-    Theme name:MyResume
-    Author: BootstrapMade
     
   ======================================================= -->
 </head>
 <body>
   <div class="wrapper" id="wrapper">
-    <header>
+    <header class="container-fluid">
       <div class="banner row" id="banner">
         <div class="parallax text-center" style="background-image: url(img/1.jpg);">
           <div class="parallax-pattern-overlay">
-            <div class="container text-center" style="height:600px;padding-top:170px;">
-              <!----<a href="#"><img id="site-title" class=" wow fadeInDown" wow-data-delay="0.0s" wow-data-duration="0.9s" src="img/prasad.jpg" alt=""/></a> -->
-              <h2 class="intro"><a href="index.html">PRASAD KELUSKAR</a></h2>
+            <div class="container text-center" style="height:100vh;;">
+              <!----<a href="#"><img id="site-title" class=" wow fadeInDown" wow-data-delay="0.0s" wow-data-duration="0.9s" src="img/prasad.jpg" alt=""/></a>
+              <h2 class="intro"><a href="index.html">PRASAD KELUSKAR</a></h2>  -->
             </div>
           </div>
         </div>
       </div>
       <div class="menu">
-        <div class="navbar-wrapper">
+        <div class="navbar-wrapper" data-spy="affix" data-offset-top="197">
           <div class="container">
             <div class="navwrapper">
               <div class="navbar navbar-inverse navbar-static-top">
